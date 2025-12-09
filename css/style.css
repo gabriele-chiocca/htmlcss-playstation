@@ -1,6 +1,8 @@
 img *{
 max-width: 100%;
 
+height: auto;
+
 }
 
 body {
@@ -59,6 +61,12 @@ body {
 .play-image {
     max-width: 100%;
 }
+
+.img-element {
+    max-width: 100%;
+    height: auto;
+}
+
 
 .reset-border {
     border-radius: var(--bs-border-radius);
