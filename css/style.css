@@ -52,6 +52,19 @@ body {
     background-repeat: no-repeat;
 }
 
+.bg-full-plus {
+    background-color: rgb(206, 200, 190);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.bg-full-now {
+    background-color: rgb(31, 30, 30);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 
 .returnal-logo {
     width: 70%;
