@@ -56,6 +56,8 @@ body {
     background-color: rgb(206, 200, 190);
     background-size: cover;
     background-repeat: no-repeat;
+
+    align-content: center;
 }
 
 
