@@ -34,6 +34,16 @@ h1, p {
     min-height: 80vh;
 }
 
+.bg-image-ittakestwo{
+    background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: 80% center;
+
+    background-repeat: no-repeat;
+
+    min-height: 80vh;
+}
+
 .returnal-logo {
     width: 70%;
 }
