@@ -9,3 +9,25 @@
 .sony-logo {
     width: 100px;
 }
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+.section {
+    display: flex;
+    align-items: flex-end;
+}
+
+.bg-image{
+    background-image: url(/img/returnal-listing-thumb-01-ps5.jpg);
+    background-size: cover;
+    background-position: 80% center;
+
+    background-repeat: no-repeat;
+
+    min-height: 80vh;
+}
