@@ -121,3 +121,9 @@ body {
 .logo-footer {
     width: 40%;
 }
+
+.navbar-center {
+    gap: 16px;
+    align-items: center;
+    margin-left: auto;
+}
