@@ -108,3 +108,16 @@ body {
 .align-center {
     align-content: center;
 }
+
+.social-center {
+    place-items: anchor-center;
+}
+
+
+.social-logo {
+    width: 50%;
+}
+
+.logo-footer {
+    width: 40%;
+}
