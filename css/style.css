@@ -1,0 +1,11 @@
+.sony-bar {
+    height: 36px;
+    background-color: black;
+    text-align: right;
+    padding-right: 16px;
+    position: sticky;
+}
+
+.sony-logo {
+    width: 100px;
+}
