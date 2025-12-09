@@ -73,3 +73,13 @@ body {
     max-width: 100%;
     height: auto;
 }
+
+
+.bg-plus {
+    background-color: rgb(206, 200, 190);
+}
+
+.btn-plus {
+    background-color: aliceblue;
+    color: blue;
+}
