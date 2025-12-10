@@ -1,130 +1,123 @@
-img *{
-max-width: 100%;
+img * {
+  max-width: 100%;
 
-height: auto;
-
+  height: auto;
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .sony-bar {
-    height: 36px;
-    background-color: black;
-    text-align: right;
-    padding-right: 16px;
-    position: sticky;
+  align-content: center;
+  height: 36px;
+  background-color: black;
+  text-align: right;
+  padding-right: 16px;
+  position: sticky;
 }
 
 .sony-logo {
-    width: 100px;
+  width: 100px;
 }
 
 .section {
-    display: flex;
-    align-items: flex-end;
+  display: flex;
+  align-items: flex-end;
 }
 
-.bg-image{
-    background-image: url(/img/returnalps.jpg);
-    background-size: cover;
-    background-position: center;
+.bg-image {
+  background-image: url(/img/returnalps.jpg);
+  background-size: cover;
+  background-position: center;
 
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
 
-
-    min-height: 80vh;
+  min-height: 80vh;
 }
 
-.bg-image-ittakestwo{
-    background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
-    background-size: cover;
-    background-position: 80% center;
+.bg-image-ittakestwo {
+  background-image: url(/img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
+  background-position: 80% center;
 
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
 
-    min-height: 80vh;
+  min-height: 80vh;
 }
 
 .bg-full {
-    background-color: rgb(31, 30, 30);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-color: rgb(31, 30, 30);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .bg-full-plus {
-    background-color: rgb(206, 200, 190);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-color: rgb(206, 200, 190);
+  background-size: cover;
+  background-repeat: no-repeat;
 
-    align-content: center;
+  align-content: center;
 }
-
 
 .bg-full-now {
-    background-color: rgb(5, 5, 71);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-color: rgb(5, 5, 71);
+  background-size: cover;
+  background-repeat: no-repeat;
 
-    align-content: center;
+  align-content: center;
 }
 
-
 .returnal-logo {
-    width: 40%;
+  width: 40%;
 }
 
 .img-thumbnail {
-    border: none;
+  border: none;
 }
 
 .center-content {
-    align-content: center;
+  align-content: center;
 }
 
 .play-image {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .img-element {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
 }
-
 
 .reset-border {
-    border-radius: var(--bs-border-radius);
-    max-width: 100%;
-    height: auto;
+  border-radius: var(--bs-border-radius);
+  max-width: 100%;
+  height: auto;
 }
 
-
-
 .btn-plus {
-    background-color: aliceblue;
-    color: blue;
+  background-color: aliceblue;
+  color: blue;
 }
 
 .align-center {
-    align-content: center;
+  align-content: center;
 }
 
 .social-center {
-    place-items: anchor-center;
+  place-items: anchor-center;
 }
 
-
 .social-logo {
-    width: 50%;
+  width: 50%;
 }
 
 .logo-footer {
-    width: 40%;
+  width: 40%;
 }
 
 .navbar-center {
-    gap: 16px;
-    align-items: center;
-    margin-left: auto;
+  gap: 16px;
+  align-items: center;
+  margin-left: auto;
 }
