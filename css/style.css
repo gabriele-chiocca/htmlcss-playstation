@@ -29,6 +29,12 @@ body {
   margin-left: auto;
 }
 
+/* quando è aperto, diventa barra orizzontale */
+.dropdown-giochi.show {
+  display: flex;
+  gap: 1.5rem;
+}
+
 /* Backgrounds */
 
 .bg-image {
